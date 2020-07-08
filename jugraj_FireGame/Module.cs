@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace jugraj_FireGame
 {
-    class Module
+  public  class Module
     {
         int rnd = 0,rndm=0;
         Random obj_rnd = new Random();

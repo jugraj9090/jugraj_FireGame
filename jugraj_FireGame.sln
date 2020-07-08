@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jugraj_FireGame", "jugraj_FireGame\jugraj_FireGame.csproj", "{1CFB9D34-77B2-4434-9131-B0BB14F940F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jugraj_FireGameTests", "jugraj_FireGameTests\jugraj_FireGameTests.csproj", "{42637B8D-BC67-44E7-BB9E-7D0F7110CCBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1CFB9D34-77B2-4434-9131-B0BB14F940F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CFB9D34-77B2-4434-9131-B0BB14F940F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CFB9D34-77B2-4434-9131-B0BB14F940F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42637B8D-BC67-44E7-BB9E-7D0F7110CCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42637B8D-BC67-44E7-BB9E-7D0F7110CCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42637B8D-BC67-44E7-BB9E-7D0F7110CCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42637B8D-BC67-44E7-BB9E-7D0F7110CCBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
